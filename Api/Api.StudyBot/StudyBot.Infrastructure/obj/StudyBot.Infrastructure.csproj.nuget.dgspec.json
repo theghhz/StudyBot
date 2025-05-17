@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/StudyBot.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/StudyBot.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/StudyBot.Domain.csproj",
+        "projectName": "StudyBot.Domain",
+        "projectPath": "/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/StudyBot.Domain.csproj",
+        "packagesPath": "/home/theghhz/.nuget/packages/",
+        "outputPath": "/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/theghhz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/StudyBot.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/StudyBot.Infrastructure.csproj",
+        "projectName": "StudyBot.Infrastructure",
+        "projectPath": "/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/StudyBot.Infrastructure.csproj",
+        "packagesPath": "/home/theghhz/.nuget/packages/",
+        "outputPath": "/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/theghhz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/StudyBot.Domain.csproj": {
+                "projectPath": "/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/StudyBot.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

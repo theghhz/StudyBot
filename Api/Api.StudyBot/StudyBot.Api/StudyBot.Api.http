@@ -1,0 +1,6 @@
+@StudyBot.Api_HostAddress = http://localhost:5269
+
+GET {{StudyBot.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

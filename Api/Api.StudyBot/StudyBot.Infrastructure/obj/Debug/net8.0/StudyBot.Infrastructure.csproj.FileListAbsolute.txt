@@ -1,0 +1,34 @@
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.csproj.AssemblyReference.cache
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.AssemblyInfoInputs.cache
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.AssemblyInfo.cs
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.csproj.CoreCompileInputs.cache
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Infrastructure.deps.json
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Infrastructure.runtimeconfig.json
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Infrastructure.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Infrastructure.pdb
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Domain.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Domain.pdb
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.csproj.CopyComplete
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/refint/StudyBot.Infrastructure.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.pdb
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.genruntimeconfig.cache
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/ref/StudyBot.Infrastructure.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Infrastructure.deps.json
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Infrastructure.runtimeconfig.json
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Infrastructure.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Infrastructure.pdb
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Domain.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/bin/Debug/net8.0/StudyBot.Domain.pdb
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.csproj.AssemblyReference.cache
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.AssemblyInfoInputs.cache
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.AssemblyInfo.cs
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.csproj.CoreCompileInputs.cache
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.csproj.CopyComplete
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/refint/StudyBot.Infrastructure.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.pdb
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/StudyBot.Infrastructure.genruntimeconfig.cache
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Infrastructure/obj/Debug/net8.0/ref/StudyBot.Infrastructure.dll

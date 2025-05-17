@@ -1,0 +1,22 @@
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Domain/bin/Debug/net8.0/StudyBot.Domain.deps.json
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Domain/bin/Debug/net8.0/StudyBot.Domain.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Domain/bin/Debug/net8.0/StudyBot.Domain.pdb
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.AssemblyInfoInputs.cache
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.AssemblyInfo.cs
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.csproj.CoreCompileInputs.cache
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/refint/StudyBot.Domain.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.pdb
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/ref/StudyBot.Domain.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/bin/Debug/net8.0/StudyBot.Domain.deps.json
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/bin/Debug/net8.0/StudyBot.Domain.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/bin/Debug/net8.0/StudyBot.Domain.pdb
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.AssemblyInfoInputs.cache
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.AssemblyInfo.cs
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.csproj.CoreCompileInputs.cache
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/refint/StudyBot.Domain.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/StudyBot.Domain.pdb
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Domain/obj/Debug/net8.0/ref/StudyBot.Domain.dll

@@ -1,0 +1,306 @@
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/appsettings.Development.json
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/appsettings.json
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Api
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Api.deps.json
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Api.runtimeconfig.json
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Api.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Api.pdb
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Castle.Core.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Humanizer.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Configuration.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Console.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Npgsql.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.CodeDom.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Text.Json.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Domain.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Infrastructure.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Infrastructure.pdb
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Domain.pdb
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.csproj.AssemblyReference.cache
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.AssemblyInfoInputs.cache
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.AssemblyInfo.cs
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.csproj.CoreCompileInputs.cache
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets.build.json
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets.development.json
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets/msbuild.StudyBot.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.StudyBot.Api.props
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StudyBot.Api.props
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StudyBot.Api.props
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/scopedcss/bundle/StudyBot.Api.styles.css
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.csproj.CopyComplete
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/refint/StudyBot.Api.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.pdb
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.genruntimeconfig.cache
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/ref/StudyBot.Api.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Application.dll
+/home/theghhz/RiderProjects/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Application.pdb
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/appsettings.Development.json
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/appsettings.json
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Api
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Api.deps.json
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Api.runtimeconfig.json
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Api.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Api.pdb
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Castle.Core.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Humanizer.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Configuration.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Console.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Npgsql.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.CodeDom.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/System.Text.Json.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Application.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Domain.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Infrastructure.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Infrastructure.pdb
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Application.pdb
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/bin/Debug/net8.0/StudyBot.Domain.pdb
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.csproj.AssemblyReference.cache
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.AssemblyInfoInputs.cache
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.AssemblyInfo.cs
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.csproj.CoreCompileInputs.cache
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets.build.json
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets.development.json
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets/msbuild.StudyBot.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.StudyBot.Api.props
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StudyBot.Api.props
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StudyBot.Api.props
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/scopedcss/bundle/StudyBot.Api.styles.css
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.csproj.CopyComplete
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/refint/StudyBot.Api.dll
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.pdb
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/StudyBot.Api.genruntimeconfig.cache
+/home/theghhz/Área de trabalho/Study-Bot/Api/Api.StudyBot/StudyBot.Api/obj/Debug/net8.0/ref/StudyBot.Api.dll
